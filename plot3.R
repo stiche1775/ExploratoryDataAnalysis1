@@ -4,7 +4,7 @@
 #         1. Download household power consumption data
 #         2. Subset data for 2 days - 2007-02-01 and 2007-02-02
 #         3. Draw  plot between day of usage and energy submetering
-#AUTHOR          : Rajesh Thallam
+#AUTHOR          : Michael Austin
 #DATE            : 1/11/2015
 #VERSION         : 0.1
 #USAGE           : draw.plot3()

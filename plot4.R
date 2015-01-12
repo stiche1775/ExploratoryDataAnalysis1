@@ -5,7 +5,7 @@
 #         2. Subset data for 2 days - 2007-02-01 and 2007-02-02
 #         3. Draw sub-plots for Global Active Power, Voltage, Energy sub 
 #            metering and global reactive power
-#AUTHOR          : Rajesh Thallam
+#AUTHOR          : Michael Austin
 #DATE            : 1/11/2015
 #VERSION         : 0.1
 #USAGE           : draw.plot4()
